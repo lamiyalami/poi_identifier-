@@ -1,0 +1,16 @@
+--README--
+
+This project is a part of Udacity's Machine Learning course. I have build an identifier which classifies person of interest based on Enron dataset. 
+
+poi_id.py : code for poi idenfier
+
+final_project_dataset.pkl : the dataset for the project
+
+emails_by_address : this directory contains many text files, each of which contains all the messages to or from a particular email address.
+
+my_dataset.pkl, my_classifier.pkl, my_feature_list.pkl : pickle files
+
+tree.png : visualized Decision Tree 
+
+
+
